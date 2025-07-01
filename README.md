@@ -41,7 +41,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/wp-ultimate-security-suite.git
+git clone https://github.com/dontworrygh/wp_ultimate_suite.git
 cd wp-ultimate-security-suite
 ```
 
